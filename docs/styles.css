@@ -16,6 +16,9 @@ html, body {
     font-style: normal
 }
 
+blockquote {
+    margin: 0px;
+}
 
 #main_text {
     margin: auto; 
